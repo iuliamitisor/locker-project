@@ -72,8 +72,9 @@ INFO: [IP_Flow 19-1704] No user IP repositories specified
 INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2023.2/data/ip'.
 open_project: Time (s): cpu = 00:00:25 ; elapsed = 00:00:12 . Memory (MB): peak = 1450.164 ; gain = 289.613
 update_compile_order -fileset sources_1
-1
-WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [C:\Users\iulia\Downloads\reg_pin.vhd:]
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Apr 24 19:57:26 2024...
+"On-the-fly" syntax checking information may be incorrect. [C:\Users\iulia\Downloads\reg_pin.vhd:]
 WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [C:\Users\iulia\Downloads\counter_modulo_8.vhd:]
 WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [C:\Users\iulia\Downloads\counter_mod_3.vhd:]
 WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [C:\Users\iulia\Downloads\reg_pin.vhd:]
